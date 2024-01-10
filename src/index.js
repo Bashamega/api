@@ -52,7 +52,7 @@ const dataObject = {
 };
 
 // Endpoint to return the object
-app.get('/api/projects', (req, res) => {
+app.get('/projects', (req, res) => {
   res.json(dataObject);
 });
 
