@@ -1,5 +1,6 @@
 const express = require('express');
 const app = express();
+const cors = require('cors');
 
 // Define the object you want to return
 const dataObject = {
@@ -50,6 +51,9 @@ const dataObject = {
     
   ]
 };
+
+// Enable CORS
+app.use(cors());
 
 // Endpoint to return the object
 app.get('/projects', (req, res) => {
