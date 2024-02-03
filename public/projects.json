@@ -1,5 +1,30 @@
 [
     {
+        "name":"حديث النحل والطيور",
+        "html_url": "https://marwarakha.com/Ebooks/BirdsandBeesTalkArabic/",
+        "fork":false,
+        "description":"An interactive book about sexual education in Arabic",
+        "language":"CSS"
+    },{
+        "name":"Cabbahe Patch Babby",
+        "html_url": "https://marwarakha.com/Ebooks/CabbagePatchBaby",
+        "fork":false,
+        "description":"An interactive book about sexual education in English",
+        "language":"CSS"
+    },{
+        "name":"أنا أستحق الحب",
+        "html_url": "https://marwarakha.com/Ebooks/DeserveLoveAR/",
+        "fork":false,
+        "description":"An interactive book about 'why you deserve to be loved' in Arabic",
+        "language":"JavaScript"
+    },{
+        "name":"I Deserve To Be Loved",
+        "html_url": "https://marwarakha.com/Ebooks/DeserveLoveEN/",
+        "fork":false,
+        "description":"An interactive book about 'why you deserve to be loved' in English",
+        "language":"JavaScript"
+    },
+    {
         "name": "Xprofile",
         "html_url": "https://github.com/Bashamega/xprofile",
         "description": "𝕏 Profile",
