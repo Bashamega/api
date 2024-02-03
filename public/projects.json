@@ -1,0 +1,97 @@
+[
+    {
+        "name": "Xprofile",
+        "html_url": "https://github.com/Bashamega/xprofile",
+        "description": "𝕏 Profile",
+        "fork": true,
+        "language": "TypeScript"
+    },
+    {
+        "name": "Animating-Buttons",
+        "html_url": "https://github.com/Bashamega/Animating-Buttons",
+        "description": "Explore Amazing Buttons animation for your next project. 🤩An initiative by GDSC-DYPCOE for Hactoberfest. 🚀",
+        "fork": true,
+        "language": "CSS"
+    },
+    {
+        "name": "april",
+        "html_url": "https://github.com/Bashamega/april",
+        "description": "A programming language for making APIs",
+        "fork": true,
+        "language": "Python"
+    },
+    
+    {
+        "name": "avice-gen",
+        "html_url": "https://github.com/Bashamega/avice-gen",
+        "fork":false,
+        "description": null,
+        "language": "Sass"
+    },
+    {
+        "name": "Clock",
+        "html_url": "https://github.com/Bashamega/Clock",
+        "description": null,
+        "fork": true,
+        "language": "HTML"
+    },
+    {
+        "name": "Code-Magic",
+        "html_url": "https://github.com/Bashamega/Code-Magic",
+        "description": "An all in one developer styling tool for styling your web apps with CSS",
+        "fork": true,
+        "language": "TypeScript"
+    },
+    {
+        "name": "compiler",
+        "html_url": "https://github.com/Bashamega/compiler",
+        "description": "This is an open source compiler that compiles code in the browser. It is licensed under the MIT license.",
+        "fork": false,
+        "language": "JavaScript"
+    },
+   
+    {
+        "name": "Countries-website",
+        "full_name": "Bashamega/Countries-website",
+        "html_url": "https://github.com/Bashamega/Countries-website",
+        "description": null,
+        "fork": false,
+        "language": "TypeScript"
+    },
+   
+    {
+        "name": "github-issue-finder",
+        "html_url": "https://github.com/Bashamega/github-issue-finder",
+        "description": null,
+        "fork": false,
+        
+        "language": "TypeScript"
+    },
+   
+    {
+        "name": "gridolia",
+        "html_url": "https://github.com/Bashamega/gridolia",
+        "description": "Grid layout generator.",
+        "fork": true,
+        
+        "language": "JavaScript"
+    },
+    {
+        "name": "Gym-Junkies",
+        "full_name": "Bashamega/Gym-Junkies",
+        "html_url": "https://github.com/Bashamega/Gym-Junkies",
+        "description": "This website allows users to add their favorite exercises with a video demonstration and step-by-step instructions on how to perform the exercise. We would greatly appreciate it if you could give a star to our project :star:",
+        "fork": true,
+        "language": "JavaScript"
+    },
+    {
+        
+        "name": "hospital-management-system",
+        
+        "html_url": "https://github.com/Bashamega/hospital-management-system",
+        "description": null,
+        "fork": false,
+        
+        "language": "Python"
+    }
+]
