@@ -1,5 +1,61 @@
 [
     {
+        "name": "Latitude and Longitude Map",
+        "html_url": "https://github.com/Bashamega/Latitude-and-Longitude-Map",
+        "description": null,
+        "fork": false,
+        "language": "TypeScript"
+    },
+    {
+        "name": "Lightbox Clone",
+        "html_url": "https://github.com/Bashamega/Lightbox-clone",
+        "description": null,
+        "fork": false,
+        "language": "Rust"
+    },
+    {
+        "name": "Snake Game",
+        "html_url": "https://github.com/Bashamega/Snake-Game",
+        "description": null,
+        "fork": true,
+        "language": "JavaScript"
+    },
+    {
+        "name": "Kotobee Author Customization",
+        "html_url": "https://github.com/Bashamega/KotobeeAuthorCustomization",
+        "description": null,
+        "fork": false,
+        "language": "Sass"
+    },
+    {
+        "name": "Newsletter Signup With sucess message",
+        "html_url": "https://github.com/Bashamega/Newsletter-sign-up-form-with-success-message",
+        "description": null,
+        "fork": false,
+        "language": "Sass"
+    },
+    {
+        "name": "Advice generator",
+        "html_url": "https://github.com/Bashamega/avice-gen",
+        "description": null,
+        "fork": false,
+        "language": "Sass"
+    },
+    {
+        "name": "Notifications Page",
+        "html_url": "https://github.com/Bashamega/Notifications-page",
+        "description": null,
+        "fork": false,
+        "language": "JavaScript"
+    },
+    {
+        "name": "Stack Overflow Discord Bot",
+        "html_url": "https://github.com/Bashamega/Stackoverflow-discordBot",
+        "description": "Try out this built in stack overflow in discord!",
+        "fork": false,
+        "language": "JavaScript"
+    },
+    {
         "name":"حديث النحل والطيور",
         "html_url": "https://marwarakha.com/Ebooks/BirdsandBeesTalkArabic/",
         "fork":false,
