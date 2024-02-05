@@ -1,5 +1,26 @@
 [
     {
+        "name": "CPK",
+        "html_url": "https://microsoftedge.microsoft.com/addons/detail/cpk/okabgcamgefdfhhlpkdbkohiickenfgg",
+        "description": "CPK. This extension helps coders run html code on the web. WARNING: it doesn't work properly on a tablet or mobile phone. To view it you will need to pin the extension and click on it",
+        "fork": false,
+        "language": "JavaScript"
+    },
+    {
+        "name": "code.org Dark mode",
+        "html_url": "https://microsoftedge.microsoft.com/addons/detail/glhbdmdjheanpcegjcomfhiopfkddfnj",
+        "description": "This is an dark mode extension for code.org.",
+        "fork": false,
+        "language": "CSS"
+    },
+    {
+        "name": "Scratch Dark mode",
+        "html_url": "https://microsoftedge.microsoft.com/addons/detail/kcfjdhhbmklaiijndlffnoihjlobacnh",
+        "description": "This is an dark mode extension for scratch.",
+        "fork": false,
+        "language": "CSS"
+    },
+    {
         "name": "WebDev Tools",
         "html_url": "https://github.com/Bashamega/WebDevTools",
         "description": "WebDev Tools is a comprehensive online platform designed to empower web developers with a wide array of code samples and snippets. Whether you are a seasoned professional or just starting your journey in web development, our website provides you with a vast collection of code examples to streamline your workflow, enhance productivity, and create exceptional websites and web applications.",
