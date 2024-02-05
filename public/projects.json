@@ -1,5 +1,19 @@
 [
     {
+        "name": "WebDev Tools",
+        "html_url": "https://github.com/Bashamega/WebDevTools",
+        "description": "WebDev Tools is a comprehensive online platform designed to empower web developers with a wide array of code samples and snippets. Whether you are a seasoned professional or just starting your journey in web development, our website provides you with a vast collection of code examples to streamline your workflow, enhance productivity, and create exceptional websites and web applications.",
+        "fork": false,
+        "language": "JavaScript"
+    },
+    {
+        "name": "Windows CMD Extensions",
+        "html_url": "https://github.com/Bashamega/Latitude-and-Longitude-Map",
+        "description": "Windows CMD Extensions is a user-friendly application that allows you to create and use custom commands in your Windows Command Prompt (CMD) without the need for coding. With this tool, you can enhance your productivity and automate repetitive tasks by defining personalized commands that execute complex actions with a single command.",
+        "fork": false,
+        "language": "Python"
+    },
+    {
         "name": "Latitude and Longitude Map",
         "html_url": "https://github.com/Bashamega/Latitude-and-Longitude-Map",
         "description": null,
