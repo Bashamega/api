@@ -1,5 +1,12 @@
 [
     {
+        "name": "Cats facts Generator",
+        "html_url": "https://catsfacts.vercel.app/",
+        "description": "A project that generates cool facts about cats",
+        "fork": false,
+        "language": "CSS"
+    },
+    {
         "name": "CPK",
         "html_url": "https://microsoftedge.microsoft.com/addons/detail/cpk/okabgcamgefdfhhlpkdbkohiickenfgg",
         "description": "CPK. This extension helps coders run html code on the web. WARNING: it doesn't work properly on a tablet or mobile phone. To view it you will need to pin the extension and click on it",
