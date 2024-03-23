@@ -1,5 +1,12 @@
 [
     {
+        "name": "Miral Al Tahawy",
+        "html_url": "https://miral-altahawy.com/",
+        "description": "A website for an Egyptian Author",
+        "fork": false,
+        "language": "CSS"
+    },
+    {
         "name": "Cats facts Generator",
         "html_url": "https://catsfacts.vercel.app/",
         "description": "A project that generates cool facts about cats",
